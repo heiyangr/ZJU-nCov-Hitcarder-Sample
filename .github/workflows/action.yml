@@ -21,12 +21,6 @@ jobs:
           - username: ZJU_USERNAME3
             password: ZJU_PASSWORD3
             dingtalk_token: DINGTALK_TOKEN3
-          - username: ZJU_USERNAME4
-            password: ZJU_PASSWORD4
-            dingtalk_token: DINGTALK_TOKEN4
-          - username: ZJU_USERNAME5
-            password: ZJU_PASSWORD5
-            dingtalk_token: DINGTALK_TOKEN5
 
     steps:     
       - name: Working
